@@ -58,8 +58,8 @@ sequenceDiagram
 ## 📁 Folder Structure
 
 ```
-esp8266-evil-twin/
-├── evil_twin.ino
+Evil_Twin_Attack/
+├── EvilTwin_ESP8266.ino
 ├── README.md
 ```
 
